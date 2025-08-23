@@ -39,7 +39,7 @@ Find the line:
 #PermitRootLogin yes
 ```
 
-Modify it to:
+Modify it to(using i):
 
 ```bash
 PermitRootLogin no
