@@ -73,9 +73,7 @@ Each day’s task will include:
 ```bash
 📦 100-days-devops
 ├── Day01-LinuxBasics/
-│   ├── task.md
 │   ├── solution.md
-│   └── notes.md
 ├── Day02-ShellScripting/
 ├── Day03-Git/
 ├── ...
